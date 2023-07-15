@@ -1,5 +1,6 @@
 name: Game of life testing
 
+
 on: push
 
 jobs:
